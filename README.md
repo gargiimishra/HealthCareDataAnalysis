@@ -9,6 +9,8 @@ Github link for Amazon: https://github.com/amazon-archives/AWS-MIMIC-IIItoOMOP
 
 AWS blog on how to connect: https://aws.amazon.com/blogs/big-data/perform-biomedical-informatics-without-a-database-using-mimic-iii-data-and-amazon-athena/
 
+Data link for Demo: https://physionet.org/content/mimiciii-demo/1.4/
+
 
 
 
